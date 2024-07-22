@@ -1,0 +1,8 @@
+torch
+scipy
+einops
+opt_einsum
+numpy
+pandas
+psutil
+tensorboard
